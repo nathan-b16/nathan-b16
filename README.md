@@ -5,6 +5,6 @@ passionate about building robust backend systems and solving complex logic probl
 I'm currently looking for my first role in where I can contribute and grow.
 
 
-* **Languages:** C#, Java, SQL
+* **Languages:** C#, Java, Python
 * **Frameworks & Tools:** .NET Core, ASP.NET Web API, Entity Framework, WinForms
 * **Databases:** MySQL, SQL Server
