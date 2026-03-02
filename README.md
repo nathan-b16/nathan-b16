@@ -6,5 +6,5 @@ I'm currently looking for my first role in where I can contribute and grow.
 
 
 * **Languages:** C#, Java, Python
-* **Frameworks & Tools:** .NET Core, ASP.NET Web API, Entity Framework, WinForms
+* **Frameworks & Tools:** .NET Core, ASP.NET Web API, Entity Framework, WinForms, spring framework
 * **Databases:** MySQL, SQL Server
