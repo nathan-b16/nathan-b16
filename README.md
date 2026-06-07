@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am a software engineering student at the beginning of my career,
-passionate about building strong backend systems and solving complex logic problems.
+I am a software developer, passionate about building strong backend systems and solving complex logic problems.
 I'm currently looking for my first role in where I can contribute and grow.
 
 
