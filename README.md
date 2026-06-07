@@ -7,4 +7,4 @@ I'm currently looking for my first role in where I can contribute and grow.
 
 * **Languages:** C#, Java, Python
 * **Frameworks & Tools:** WinForms, Spring Framework
-* **Databases:** MySQL, SQL Server
+* **Databases:** SQL
